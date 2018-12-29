@@ -4,13 +4,13 @@ li {list-style:none;}
 h1 {text-align:center; height:100px; line-height:100px;}
 ul {padding: 0 20px;}
 li { padding:20px; }
-li > div {position:relative; background-color:#ddd; border:3px solid black;}
-li .sec_title {float:right; display:block; padding:10px;  width:40%;  border-left:3px solid black; border-bottom:3px solid black; text-align:center;}
+li > div {position:relative; background-color:#fffbef; border:1px solid black;}
+li .sec_title {float:right; display:block; padding:10px;  width:40%;  border-left:1px solid black; border-bottom:1px solid black; text-align:center;}
 li:nth-child(1) .sec_title {background-color:#ffb428;}
 li:nth-child(2) .sec_title {background-color:#971010; color:#fff;}
 li:nth-child(3) .sec_title {background-color:#ff6b6b;}
 
-li p {clear:right; padding:30px; text-align:justify;}
+li p {clear:right; padding:30px; text-align:justify; color:#666;}
 
 
 /************** desktop version *****************/
